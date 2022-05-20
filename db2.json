@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "request": {
+      "format": "json",
+      "domain": "bbc.com",
+      "start_date": "2017-11-01",
+      "end_date": "2018-01-31",
+      "limit": null,
+      "country": "gb"
+    },
+    "status": "Success",
+    "last_updated": "2019-02-28"
+  },
+  "country_rank": [
+    {
+      "date": "2017-11",
+      "country_rank": 76
+    },
+    {
+      "date": "2017-12",
+      "country_rank": 73
+    },
+    {
+      "date": "2018-01",
+      "country_rank": 71
+    }
+  ]
+}
