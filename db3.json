@@ -1,0 +1,1728 @@
+{
+  "meta": {
+    "request": {
+      "main_domain_only": false,
+      "show_verified": false,
+      "format": "json",
+      "domain": "bbc.com",
+      "start_date": "2020-01-01",
+      "end_date": "2020-12-31",
+      "limit": null,
+      "country": "world"
+    },
+    "status": "Success",
+    "last_updated": "2020-12-31"
+  },
+  "records": [
+    {
+      "country": 840,
+      "share": 0.2728923701957994,
+      "visits": 509512352.18854594,
+      "pages_per_visit": 2.3867924922914994,
+      "average_time": 208.118988349658,
+      "bounce_rate": 0.560864634560192,
+      "rank": 131,
+      "country_name": "United States"
+    },
+    {
+      "country": 826,
+      "share": 0.08489019437641786,
+      "visits": 158496928.96667624,
+      "pages_per_visit": 2.007191616781722,
+      "average_time": 149.41847938833604,
+      "bounce_rate": 0.6847838421741826,
+      "rank": 55,
+      "country_name": "United Kingdom"
+    },
+    {
+      "country": 124,
+      "share": 0.062264514104214776,
+      "visits": 116252935.2372626,
+      "pages_per_visit": 2.7392309408193527,
+      "average_time": 254.55268298582075,
+      "bounce_rate": 0.4923411661660286,
+      "rank": 64,
+      "country_name": "Canada"
+    },
+    {
+      "country": 76,
+      "share": 0.030124804501107504,
+      "visits": 56245471.39066786,
+      "pages_per_visit": 1.6697686627617585,
+      "average_time": 129.1991128271154,
+      "bounce_rate": 0.7239451452828665,
+      "rank": 199,
+      "country_name": "Brazil"
+    },
+    {
+      "country": 36,
+      "share": 0.029761591708150428,
+      "visits": 55567323.4294341,
+      "pages_per_visit": 2.50450541828035,
+      "average_time": 202.96467065089226,
+      "bounce_rate": 0.5334859703001466,
+      "rank": 78,
+      "country_name": "Australia"
+    },
+    {
+      "country": 643,
+      "share": 0.023797075440788903,
+      "visits": 44431084.219558984,
+      "pages_per_visit": 1.7617554769836192,
+      "average_time": 129.3086636717996,
+      "bounce_rate": 0.6966650693030557,
+      "rank": 237,
+      "country_name": "Russian Federation"
+    },
+    {
+      "country": 276,
+      "share": 0.023269650103994965,
+      "visits": 43446338.021778144,
+      "pages_per_visit": 2.7480705934900946,
+      "average_time": 245.09378643576753,
+      "bounce_rate": 0.4850942933896955,
+      "rank": 337,
+      "country_name": "Germany"
+    },
+    {
+      "country": 356,
+      "share": 0.022779133675881073,
+      "visits": 42530503.772194274,
+      "pages_per_visit": 2.1835226932628196,
+      "average_time": 185.65973968174623,
+      "bounce_rate": 0.6014526464996764,
+      "rank": 152,
+      "country_name": "India"
+    },
+    {
+      "country": 250,
+      "share": 0.018108279112000313,
+      "visits": 33809636.66306275,
+      "pages_per_visit": 3.0641827793992054,
+      "average_time": 280.4044271360406,
+      "bounce_rate": 0.4530562692667225,
+      "rank": 344,
+      "country_name": "France"
+    },
+    {
+      "country": 372,
+      "share": 0.01747208883390006,
+      "visits": 32621817.433079258,
+      "pages_per_visit": 3.189624837739746,
+      "average_time": 308.4120793643803,
+      "bounce_rate": 0.39784687783652317,
+      "rank": 19,
+      "country_name": "Ireland"
+    },
+    {
+      "country": 724,
+      "share": 0.016967132626911016,
+      "visits": 31679022.9365142,
+      "pages_per_visit": 2.474079557597898,
+      "average_time": 228.9463239411626,
+      "bounce_rate": 0.5696399701193053,
+      "rank": 171,
+      "country_name": "Spain"
+    },
+    {
+      "country": 484,
+      "share": 0.015601844806693856,
+      "visits": 29129919.02351691,
+      "pages_per_visit": 1.7357904261529868,
+      "average_time": 139.9673310481998,
+      "bounce_rate": 0.7217380809027462,
+      "rank": 154,
+      "country_name": "Mexico"
+    },
+    {
+      "country": 804,
+      "share": 0.015213776753970025,
+      "visits": 28405364.261466652,
+      "pages_per_visit": 1.581268032758455,
+      "average_time": 109.34087233898576,
+      "bounce_rate": 0.7546962915608237,
+      "rank": 136,
+      "country_name": "Ukraine"
+    },
+    {
+      "country": 528,
+      "share": 0.015115704934275692,
+      "visits": 28222256.161009252,
+      "pages_per_visit": 2.7487912861732715,
+      "average_time": 263.0034748833939,
+      "bounce_rate": 0.4715809782693231,
+      "rank": 155,
+      "country_name": "Netherlands"
+    },
+    {
+      "country": 156,
+      "share": 0.014493966218753776,
+      "visits": 27061419.179143596,
+      "pages_per_visit": 2.1716818063759327,
+      "average_time": 170.63179706268068,
+      "bounce_rate": 0.5652656454682444,
+      "rank": 742,
+      "country_name": "China"
+    },
+    {
+      "country": 392,
+      "share": 0.013469279825761139,
+      "visits": 25148245.96006577,
+      "pages_per_visit": 1.8263080875944107,
+      "average_time": 127.50589813268648,
+      "bounce_rate": 0.6946286361524779,
+      "rank": 934,
+      "country_name": "Japan"
+    },
+    {
+      "country": 792,
+      "share": 0.01240217530248176,
+      "visits": 23155874.625913013,
+      "pages_per_visit": 2.0514875966529793,
+      "average_time": 174.14037934963835,
+      "bounce_rate": 0.6218190433448785,
+      "rank": 213,
+      "country_name": "Turkey"
+    },
+    {
+      "country": 170,
+      "share": 0.011324280032922285,
+      "visits": 21143356.08678308,
+      "pages_per_visit": 1.731125122113163,
+      "average_time": 157.37116710492273,
+      "bounce_rate": 0.7075101284252777,
+      "rank": 131,
+      "country_name": "Colombia"
+    },
+    {
+      "country": 554,
+      "share": 0.010643705108059882,
+      "visits": 19872667.09478823,
+      "pages_per_visit": 2.762979154520455,
+      "average_time": 231.8549250133149,
+      "bounce_rate": 0.46492353876396314,
+      "rank": 37,
+      "country_name": "New Zealand"
+    },
+    {
+      "country": 586,
+      "share": 0.010000132830847996,
+      "visits": 18671065.069307294,
+      "pages_per_visit": 2.6962696480358366,
+      "average_time": 307.8143828103688,
+      "bounce_rate": 0.4464121218224638,
+      "rank": 41,
+      "country_name": "Pakistan"
+    },
+    {
+      "country": 752,
+      "share": 0.009586509802668931,
+      "visits": 17898797.080078956,
+      "pages_per_visit": 2.574752715126634,
+      "average_time": 250.83830770915154,
+      "bounce_rate": 0.49234784778226554,
+      "rank": 112,
+      "country_name": "Sweden"
+    },
+    {
+      "country": 32,
+      "share": 0.009452539445671572,
+      "visits": 17648663.47733921,
+      "pages_per_visit": 1.6536390881094152,
+      "average_time": 130.973017937592,
+      "bounce_rate": 0.7240548167151324,
+      "rank": 217,
+      "country_name": "Argentina"
+    },
+    {
+      "country": 764,
+      "share": 0.00900458354097001,
+      "visits": 16812293.20243017,
+      "pages_per_visit": 2.5698100654416343,
+      "average_time": 220.15125045819153,
+      "bounce_rate": 0.5687747800799313,
+      "rank": 181,
+      "country_name": "Thailand"
+    },
+    {
+      "country": 784,
+      "share": 0.008244790817757232,
+      "visits": 15393698.108319903,
+      "pages_per_visit": 2.646369405330785,
+      "average_time": 258.35457911495143,
+      "bounce_rate": 0.4743472365008816,
+      "rank": 48,
+      "country_name": "United Arab Emirates"
+    },
+    {
+      "country": 604,
+      "share": 0.00803578238617727,
+      "visits": 15003462.28924905,
+      "pages_per_visit": 1.5788441469581873,
+      "average_time": 133.42267492741112,
+      "bounce_rate": 0.7523086022497883,
+      "rank": 143,
+      "country_name": "Peru"
+    },
+    {
+      "country": 756,
+      "share": 0.007840310640798622,
+      "visits": 14638500.56934894,
+      "pages_per_visit": 3.145394465012109,
+      "average_time": 280.708411434993,
+      "bounce_rate": 0.43791907440370825,
+      "rank": 98,
+      "country_name": "Switzerland"
+    },
+    {
+      "country": 704,
+      "share": 0.007833079575935672,
+      "visits": 14624999.580426069,
+      "pages_per_visit": 2.1935036732386504,
+      "average_time": 157.25131514815632,
+      "bounce_rate": 0.5916765728811517,
+      "rank": 257,
+      "country_name": "Vietnam"
+    },
+    {
+      "country": 616,
+      "share": 0.007561116332891965,
+      "visits": 14117221.984546047,
+      "pages_per_visit": 2.388800187308018,
+      "average_time": 200.50272436165758,
+      "bounce_rate": 0.5538859701210399,
+      "rank": 546,
+      "country_name": "Poland"
+    },
+    {
+      "country": 158,
+      "share": 0.007249594103390344,
+      "visits": 13535584.52872965,
+      "pages_per_visit": 1.941561869851051,
+      "average_time": 170.0776024981085,
+      "bounce_rate": 0.6769217428157674,
+      "rank": 278,
+      "country_name": "Taiwan"
+    },
+    {
+      "country": 578,
+      "share": 0.007243508199542125,
+      "visits": 13524221.64898818,
+      "pages_per_visit": 2.6605239539209142,
+      "average_time": 264.1536155542128,
+      "bounce_rate": 0.47545843671853943,
+      "rank": 120,
+      "country_name": "Norway"
+    },
+    {
+      "country": 344,
+      "share": 0.007173317162194783,
+      "visits": 13393169.247208906,
+      "pages_per_visit": 2.3016560265154813,
+      "average_time": 188.769269421869,
+      "bounce_rate": 0.5702590272736195,
+      "rank": 104,
+      "country_name": "Hong Kong"
+    },
+    {
+      "country": 710,
+      "share": 0.006986123183573502,
+      "visits": 13043662.794190714,
+      "pages_per_visit": 2.5875904067195967,
+      "average_time": 238.7891403290256,
+      "bounce_rate": 0.5215445321253439,
+      "rank": 104,
+      "country_name": "South Africa"
+    },
+    {
+      "country": 702,
+      "share": 0.006909848835068538,
+      "visits": 12901252.353435155,
+      "pages_per_visit": 2.3575467199448346,
+      "average_time": 206.5564841582987,
+      "bounce_rate": 0.5676786881117925,
+      "rank": 90,
+      "country_name": "Singapore"
+    },
+    {
+      "country": 56,
+      "share": 0.006325356921909172,
+      "visits": 11809958.194879761,
+      "pages_per_visit": 2.687993632364233,
+      "average_time": 239.26353203021665,
+      "bounce_rate": 0.4650113555549275,
+      "rank": 160,
+      "country_name": "Belgium"
+    },
+    {
+      "country": 360,
+      "share": 0.006064050861793258,
+      "visits": 11322078.430285191,
+      "pages_per_visit": 1.6602777420516563,
+      "average_time": 140.1104089728011,
+      "bounce_rate": 0.735692898330863,
+      "rank": 296,
+      "country_name": "Indonesia"
+    },
+    {
+      "country": 152,
+      "share": 0.005935357955467363,
+      "visits": 11081798.259150174,
+      "pages_per_visit": 1.6493749175127663,
+      "average_time": 137.4417386839704,
+      "bounce_rate": 0.7125536461771085,
+      "rank": 193,
+      "country_name": "Chile"
+    },
+    {
+      "country": 208,
+      "share": 0.005870288485676938,
+      "visits": 10960308.242464134,
+      "pages_per_visit": 2.576610726066708,
+      "average_time": 225.704894182356,
+      "bounce_rate": 0.49411554245335565,
+      "rank": 166,
+      "country_name": "Denmark"
+    },
+    {
+      "country": 380,
+      "share": 0.005756099154161405,
+      "visits": 10747107.430533875,
+      "pages_per_visit": 2.458734676278072,
+      "average_time": 218.21579199756684,
+      "bounce_rate": 0.5247306995415311,
+      "rank": 653,
+      "country_name": "Italy"
+    },
+    {
+      "country": 246,
+      "share": 0.005687215139907073,
+      "visits": 10618495.347661305,
+      "pages_per_visit": 2.567521933540993,
+      "average_time": 236.5854068753805,
+      "bounce_rate": 0.4951379914006266,
+      "rank": 195,
+      "country_name": "Finland"
+    },
+    {
+      "country": 410,
+      "share": 0.00526684497842847,
+      "visits": 9833629.909279259,
+      "pages_per_visit": 1.9592171463095656,
+      "average_time": 134.31034753245768,
+      "bounce_rate": 0.65971013188989,
+      "rank": 621,
+      "country_name": "Korea, Republic of"
+    },
+    {
+      "country": 203,
+      "share": 0.004816540127892688,
+      "visits": 8992873.960573994,
+      "pages_per_visit": 2.6111071582788052,
+      "average_time": 243.7914760058407,
+      "bounce_rate": 0.5033143142582145,
+      "rank": 309,
+      "country_name": "Czech Republic"
+    },
+    {
+      "country": 862,
+      "share": 0.004658065845839698,
+      "visits": 8696989.527629694,
+      "pages_per_visit": 1.8235820906770626,
+      "average_time": 204.5127909859921,
+      "bounce_rate": 0.660881802479515,
+      "rank": 81,
+      "country_name": "Venezuela, Bolivarian Republic of"
+    },
+    {
+      "country": 50,
+      "share": 0.004580949941598628,
+      "visits": 8553007.833554398,
+      "pages_per_visit": 2.0652280721437624,
+      "average_time": 196.45141879766413,
+      "bounce_rate": 0.6079883883523666,
+      "rank": 52,
+      "country_name": "Bangladesh"
+    },
+    {
+      "country": 458,
+      "share": 0.00449036167935325,
+      "visits": 8383872.146308182,
+      "pages_per_visit": 2.210332852657734,
+      "average_time": 198.37643154902037,
+      "bounce_rate": 0.5838481245809989,
+      "rank": 230,
+      "country_name": "Malaysia"
+    },
+    {
+      "country": 608,
+      "share": 0.003992408562925411,
+      "visits": 7454152.992017696,
+      "pages_per_visit": 2.1524049533008354,
+      "average_time": 188.24592218109987,
+      "bounce_rate": 0.6528483288058597,
+      "rank": 378,
+      "country_name": "Philippines"
+    },
+    {
+      "country": 682,
+      "share": 0.003915479303148591,
+      "visits": 7310519.778407185,
+      "pages_per_visit": 2.298697380177497,
+      "average_time": 208.36115653775448,
+      "bounce_rate": 0.5394559174924,
+      "rank": 106,
+      "country_name": "Saudi Arabia"
+    },
+    {
+      "country": 620,
+      "share": 0.0038757933580846763,
+      "visits": 7236422.876380088,
+      "pages_per_visit": 2.1847936726774515,
+      "average_time": 174.44128555031216,
+      "bounce_rate": 0.6085522197890381,
+      "rank": 192,
+      "country_name": "Portugal"
+    },
+    {
+      "country": 376,
+      "share": 0.003853840340385913,
+      "visits": 7195434.798636074,
+      "pages_per_visit": 2.125550537800159,
+      "average_time": 159.46439418617186,
+      "bounce_rate": 0.591754170797607,
+      "rank": 149,
+      "country_name": "Israel"
+    },
+    {
+      "country": 40,
+      "share": 0.0037492108364183393,
+      "visits": 7000082.965836244,
+      "pages_per_visit": 2.744971582867741,
+      "average_time": 259.9068501996507,
+      "bounce_rate": 0.4717997810563949,
+      "rank": 186,
+      "country_name": "Austria"
+    },
+    {
+      "country": 818,
+      "share": 0.003696994233033553,
+      "visits": 6902590.300890024,
+      "pages_per_visit": 1.947916815130003,
+      "average_time": 161.9944057130603,
+      "bounce_rate": 0.6511915034814715,
+      "rank": 126,
+      "country_name": "Egypt"
+    },
+    {
+      "country": 566,
+      "share": 0.003582088629389937,
+      "visits": 6688052.150372671,
+      "pages_per_visit": 2.7362645630141778,
+      "average_time": 305.617280710439,
+      "bounce_rate": 0.49962415463655735,
+      "rank": 30,
+      "country_name": "Nigeria"
+    },
+    {
+      "country": 218,
+      "share": 0.00349309651394008,
+      "visits": 6521896.599608983,
+      "pages_per_visit": 1.6975175573419696,
+      "average_time": 163.3051983175851,
+      "bounce_rate": 0.7074651848024613,
+      "rank": 106,
+      "country_name": "Ecuador"
+    },
+    {
+      "country": 300,
+      "share": 0.0034914383175800472,
+      "visits": 6518800.611519669,
+      "pages_per_visit": 2.5754976917454964,
+      "average_time": 228.49167481600142,
+      "bounce_rate": 0.5264922628171238,
+      "rank": 448,
+      "country_name": "Greece"
+    },
+    {
+      "country": 404,
+      "share": 0.002767414205038663,
+      "visits": 5166988.436054664,
+      "pages_per_visit": 2.453364475397468,
+      "average_time": 257.81291198979494,
+      "bounce_rate": 0.5175131696608738,
+      "rank": 44,
+      "country_name": "Kenya"
+    },
+    {
+      "country": 642,
+      "share": 0.002463637312116007,
+      "visits": 4599812.156474192,
+      "pages_per_visit": 2.1444107134107653,
+      "average_time": 189.6691972897189,
+      "bounce_rate": 0.5874757764191896,
+      "rank": 447,
+      "country_name": "Romania"
+    },
+    {
+      "country": 348,
+      "share": 0.0022494795362462652,
+      "visits": 4199962.090880313,
+      "pages_per_visit": 2.3176692090869873,
+      "average_time": 209.0431679944099,
+      "bounce_rate": 0.5592900085365948,
+      "rank": 453,
+      "country_name": "Hungary"
+    },
+    {
+      "country": 364,
+      "share": 0.002102741721023925,
+      "visits": 3925990.6004524226,
+      "pages_per_visit": 2.289275666251653,
+      "average_time": 210.73298862685476,
+      "bounce_rate": 0.5341288075973712,
+      "rank": 107,
+      "country_name": "Iran, Islamic Republic of"
+    },
+    {
+      "country": 524,
+      "share": 0.0020943948407668458,
+      "visits": 3910406.293019535,
+      "pages_per_visit": 2.2045588463211265,
+      "average_time": 218.64764318106313,
+      "bounce_rate": 0.5581206949435712,
+      "rank": 79,
+      "country_name": "Nepal"
+    },
+    {
+      "country": 231,
+      "share": 0.0020555535398684498,
+      "visits": 3837886.410662233,
+      "pages_per_visit": 2.6725939033798465,
+      "average_time": 334.2808351111208,
+      "bounce_rate": 0.497590842061617,
+      "rank": 21,
+      "country_name": "Ethiopia"
+    },
+    {
+      "country": 100,
+      "share": 0.002042848173484299,
+      "visits": 3814164.4535142137,
+      "pages_per_visit": 2.6932018625100804,
+      "average_time": 282.6261554507681,
+      "bounce_rate": 0.5377751274701367,
+      "rank": 392,
+      "country_name": "Bulgaria"
+    },
+    {
+      "country": 4,
+      "share": 0.0019966780026569636,
+      "visits": 3727960.972184546,
+      "pages_per_visit": 2.789214210447087,
+      "average_time": 367.945468914647,
+      "bounce_rate": 0.43861959957850366,
+      "rank": 18,
+      "country_name": "Afghanistan"
+    },
+    {
+      "country": 112,
+      "share": 0.001962237744113981,
+      "visits": 3663658.195497801,
+      "pages_per_visit": 1.8337595009238796,
+      "average_time": 139.936193667008,
+      "bounce_rate": 0.6655438524470066,
+      "rank": 225,
+      "country_name": "Belarus"
+    },
+    {
+      "country": 288,
+      "share": 0.0019316187919799462,
+      "visits": 3606490.1101014707,
+      "pages_per_visit": 2.5704340266322596,
+      "average_time": 289.81237199445474,
+      "bounce_rate": 0.49372785648644907,
+      "rank": 26,
+      "country_name": "Ghana"
+    },
+    {
+      "country": 688,
+      "share": 0.0018075963373836922,
+      "visits": 3374930.053951146,
+      "pages_per_visit": 1.8591030572758782,
+      "average_time": 142.568568685273,
+      "bounce_rate": 0.6809958742551451,
+      "rank": 101,
+      "country_name": "Serbia"
+    },
+    {
+      "country": 188,
+      "share": 0.001780361116486404,
+      "visits": 3324079.671246069,
+      "pages_per_visit": 2.1849714767732062,
+      "average_time": 197.17466395302293,
+      "bounce_rate": 0.6359249620061034,
+      "rank": 86,
+      "country_name": "Costa Rica"
+    },
+    {
+      "country": 703,
+      "share": 0.0017204074794252321,
+      "visits": 3212141.332261441,
+      "pages_per_visit": 2.223498713078855,
+      "average_time": 183.45321650418114,
+      "bounce_rate": 0.5723867679651212,
+      "rank": 485,
+      "country_name": "Slovakia"
+    },
+    {
+      "country": 214,
+      "share": 0.0016132712029426235,
+      "visits": 3012109.1503568674,
+      "pages_per_visit": 1.9462362436416414,
+      "average_time": 151.05058864255045,
+      "bounce_rate": 0.6953191503711014,
+      "rank": 88,
+      "country_name": "Dominican Republic"
+    },
+    {
+      "country": 398,
+      "share": 0.0015502362385714581,
+      "visits": 2894417.7215205473,
+      "pages_per_visit": 1.866624639243794,
+      "average_time": 150.969716994393,
+      "bounce_rate": 0.6842594641655295,
+      "rank": 314,
+      "country_name": "Kazakhstan"
+    },
+    {
+      "country": 144,
+      "share": 0.0015463323388210015,
+      "visits": 2887128.821713139,
+      "pages_per_visit": 2.407793167798699,
+      "average_time": 200.35548352901492,
+      "bounce_rate": 0.5503911249794918,
+      "rank": 146,
+      "country_name": "Sri Lanka"
+    },
+    {
+      "country": 634,
+      "share": 0.0015462988588578431,
+      "visits": 2887066.311886397,
+      "pages_per_visit": 2.4618160057168748,
+      "average_time": 208.88494082358434,
+      "bounce_rate": 0.5245632280961782,
+      "rank": 79,
+      "country_name": "Qatar"
+    },
+    {
+      "country": 470,
+      "share": 0.0015242841694292904,
+      "visits": 2845963.087983896,
+      "pages_per_visit": 3.0795291708345003,
+      "average_time": 274.34825358013774,
+      "bounce_rate": 0.4486646105180896,
+      "rank": 42,
+      "country_name": "Malta"
+    },
+    {
+      "country": 440,
+      "share": 0.0015161558418885191,
+      "visits": 2830786.8363294955,
+      "pages_per_visit": 2.2180158619802453,
+      "average_time": 170.95764848792288,
+      "bounce_rate": 0.5827210516749894,
+      "rank": 224,
+      "country_name": "Lithuania"
+    },
+    {
+      "country": 196,
+      "share": 0.0014718652654137064,
+      "visits": 2748092.7112307353,
+      "pages_per_visit": 2.7702286028664473,
+      "average_time": 262.09993544491607,
+      "bounce_rate": 0.4550689825172834,
+      "rank": 70,
+      "country_name": "Cyprus"
+    },
+    {
+      "country": 428,
+      "share": 0.001467137228412245,
+      "visits": 2739265.079838474,
+      "pages_per_visit": 2.21903084305573,
+      "average_time": 176.8991128311489,
+      "bounce_rate": 0.5430976147937865,
+      "rank": 125,
+      "country_name": "Latvia"
+    },
+    {
+      "country": 442,
+      "share": 0.0013895183171444318,
+      "visits": 2594344.2305453913,
+      "pages_per_visit": 2.9047854719516417,
+      "average_time": 291.6512425289459,
+      "bounce_rate": 0.43278057456953384,
+      "rank": 82,
+      "country_name": "Luxembourg"
+    },
+    {
+      "country": 834,
+      "share": 0.00137837206130743,
+      "visits": 2573533.2601780947,
+      "pages_per_visit": 2.7468821409189186,
+      "average_time": 307.3069436648546,
+      "bounce_rate": 0.42747052860763524,
+      "rank": 26,
+      "country_name": "Tanzania, United Republic of"
+    },
+    {
+      "country": 858,
+      "share": 0.0013055141487830868,
+      "visits": 2437501.5845427867,
+      "pages_per_visit": 1.8989089081849786,
+      "average_time": 178.1324937739266,
+      "bounce_rate": 0.6539386472629897,
+      "rank": 100,
+      "country_name": "Uruguay"
+    },
+    {
+      "country": 352,
+      "share": 0.001303150072264454,
+      "visits": 2433087.6605224926,
+      "pages_per_visit": 2.5703518524674087,
+      "average_time": 242.2848825399763,
+      "bounce_rate": 0.4839791564914562,
+      "rank": 60,
+      "country_name": "Iceland"
+    },
+    {
+      "country": 591,
+      "share": 0.0012920926340276634,
+      "visits": 2412442.51987175,
+      "pages_per_visit": 2.319796263276269,
+      "average_time": 251.65220168250153,
+      "bounce_rate": 0.6220379320802722,
+      "rank": 48,
+      "country_name": "Panama"
+    },
+    {
+      "country": 233,
+      "share": 0.001290275293711979,
+      "visits": 2409049.3970141667,
+      "pages_per_visit": 2.1545763351415643,
+      "average_time": 163.7750583557646,
+      "bounce_rate": 0.5520705150358901,
+      "rank": 177,
+      "country_name": "Estonia"
+    },
+    {
+      "country": 705,
+      "share": 0.001212407286466315,
+      "visits": 2263663.46517772,
+      "pages_per_visit": 2.200283395355467,
+      "average_time": 164.93263880157795,
+      "bounce_rate": 0.5691903142353263,
+      "rank": 224,
+      "country_name": "Slovenia"
+    },
+    {
+      "country": 31,
+      "share": 0.0011182612399950372,
+      "visits": 2087885.1040882706,
+      "pages_per_visit": 1.9929953555175957,
+      "average_time": 178.4766388929149,
+      "bounce_rate": 0.625710816889933,
+      "rank": 85,
+      "country_name": "Azerbaijan"
+    },
+    {
+      "country": 320,
+      "share": 0.0011044497185822306,
+      "visits": 2062097.8651218878,
+      "pages_per_visit": 1.641098688786915,
+      "average_time": 134.6458875300973,
+      "bounce_rate": 0.7284256316167257,
+      "rank": 132,
+      "country_name": "Guatemala"
+    },
+    {
+      "country": 68,
+      "share": 0.0010783187117130299,
+      "visits": 2013309.1402285218,
+      "pages_per_visit": 1.8099576314107093,
+      "average_time": 160.2568477431357,
+      "bounce_rate": 0.7038750814821066,
+      "rank": 94,
+      "country_name": "Bolivia, Plurinational State of"
+    },
+    {
+      "country": 368,
+      "share": 0.0010639976301873345,
+      "visits": 1986570.5108970911,
+      "pages_per_visit": 2.2756738276896704,
+      "average_time": 258.29378341158395,
+      "bounce_rate": 0.5175077509691389,
+      "rank": 119,
+      "country_name": "Iraq"
+    },
+    {
+      "country": 191,
+      "share": 0.001046523409995464,
+      "visits": 1953944.7140445355,
+      "pages_per_visit": 2.1737507755930485,
+      "average_time": 154.60136158405683,
+      "bounce_rate": 0.5933390043505097,
+      "rank": 326,
+      "country_name": "Croatia"
+    },
+    {
+      "country": 268,
+      "share": 0.0009960400792607097,
+      "visits": 1859688.210755266,
+      "pages_per_visit": 1.8869862982289136,
+      "average_time": 141.67249991974617,
+      "bounce_rate": 0.6343751454962565,
+      "rank": 217,
+      "country_name": "Georgia"
+    },
+    {
+      "country": 512,
+      "share": 0.0009847197994552347,
+      "visits": 1838552.323419971,
+      "pages_per_visit": 2.3356341566644794,
+      "average_time": 240.41805311856464,
+      "bounce_rate": 0.5383949503059825,
+      "rank": 76,
+      "country_name": "Oman"
+    },
+    {
+      "country": 116,
+      "share": 0.0009671869120440799,
+      "visits": 1805816.9900755286,
+      "pages_per_visit": 2.4444863796334895,
+      "average_time": 231.19319066100277,
+      "bounce_rate": 0.5439821740493743,
+      "rank": 64,
+      "country_name": "Cambodia"
+    },
+    {
+      "country": 222,
+      "share": 0.000952300971520052,
+      "visits": 1778023.722841658,
+      "pages_per_visit": 1.6968091338540383,
+      "average_time": 148.46451604587605,
+      "bounce_rate": 0.7061588627158029,
+      "rank": 123,
+      "country_name": "El Salvador"
+    },
+    {
+      "country": 480,
+      "share": 0.0009234468155937844,
+      "visits": 1724150.656160243,
+      "pages_per_visit": 2.2627398979228577,
+      "average_time": 218.67700719540383,
+      "bounce_rate": 0.5316875209674004,
+      "rank": 30,
+      "country_name": "Mauritius"
+    },
+    {
+      "country": 504,
+      "share": 0.0008361305064495011,
+      "visits": 1561123.9726930375,
+      "pages_per_visit": 1.9832073074611778,
+      "average_time": 145.31371962168478,
+      "bounce_rate": 0.6486239554345195,
+      "rank": 210,
+      "country_name": "Morocco"
+    },
+    {
+      "country": 12,
+      "share": 0.000828265910571024,
+      "visits": 1546440.1296006853,
+      "pages_per_visit": 1.8332779174509037,
+      "average_time": 143.09419828438962,
+      "bounce_rate": 0.6952263645451142,
+      "rank": 334,
+      "country_name": "Algeria"
+    },
+    {
+      "country": 52,
+      "share": 0.0008172286103429302,
+      "visits": 1525832.5882575826,
+      "pages_per_visit": 3.208004555438054,
+      "average_time": 306.43496298706583,
+      "bounce_rate": 0.40941999511917354,
+      "rank": 44,
+      "country_name": "Barbados"
+    },
+    {
+      "country": 600,
+      "share": 0.0008001952590477214,
+      "visits": 1494029.9296568723,
+      "pages_per_visit": 1.7764546963800179,
+      "average_time": 160.53598683809642,
+      "bounce_rate": 0.675105519269046,
+      "rank": 79,
+      "country_name": "Paraguay"
+    },
+    {
+      "country": 716,
+      "share": 0.0007937087588197496,
+      "visits": 1481919.1037431462,
+      "pages_per_visit": 2.727063448847024,
+      "average_time": 310.4538617742922,
+      "bounce_rate": 0.4952189329804955,
+      "rank": 46,
+      "country_name": "Zimbabwe"
+    },
+    {
+      "country": 800,
+      "share": 0.0007870519987740514,
+      "visits": 1469490.3888384206,
+      "pages_per_visit": 2.6011229179889535,
+      "average_time": 302.582132117738,
+      "bounce_rate": 0.4689332547115346,
+      "rank": 45,
+      "country_name": "Uganda"
+    },
+    {
+      "country": 498,
+      "share": 0.0007521786806461407,
+      "visits": 1404379.0545229083,
+      "pages_per_visit": 2.027934890571716,
+      "average_time": 212.8133382452201,
+      "bounce_rate": 0.5989664324199877,
+      "rank": 158,
+      "country_name": "Moldova, Republic of"
+    },
+    {
+      "country": 780,
+      "share": 0.0007313828005487086,
+      "visits": 1365551.447226042,
+      "pages_per_visit": 2.31562787484562,
+      "average_time": 213.85323665186473,
+      "bounce_rate": 0.5586025915194962,
+      "rank": 66,
+      "country_name": "Trinidad and Tobago"
+    },
+    {
+      "country": 860,
+      "share": 0.000728149515625323,
+      "visits": 1359514.6400942486,
+      "pages_per_visit": 1.9166823917495013,
+      "average_time": 153.37695688814313,
+      "bounce_rate": 0.6703074419980729,
+      "rank": 138,
+      "country_name": "Uzbekistan"
+    },
+    {
+      "country": 414,
+      "share": 0.0007150284106988272,
+      "visits": 1335016.465119203,
+      "pages_per_visit": 2.235853086139894,
+      "average_time": 207.67973873985568,
+      "bounce_rate": 0.5470275490352473,
+      "rank": 76,
+      "country_name": "Kuwait"
+    },
+    {
+      "country": 400,
+      "share": 0.0007067390358735658,
+      "visits": 1319539.5250260774,
+      "pages_per_visit": 2.2705690278301325,
+      "average_time": 192.79511937376645,
+      "bounce_rate": 0.5621862682679608,
+      "rank": 107,
+      "country_name": "Jordan"
+    },
+    {
+      "country": 70,
+      "share": 0.0006953427578725888,
+      "visits": 1298261.7428502468,
+      "pages_per_visit": 1.811970321020549,
+      "average_time": 149.5174257178693,
+      "bounce_rate": 0.6826973631180542,
+      "rank": 223,
+      "country_name": "Bosnia and Herzegovina"
+    },
+    {
+      "country": 340,
+      "share": 0.0006655989184158041,
+      "visits": 1242727.5643245836,
+      "pages_per_visit": 1.582666016345423,
+      "average_time": 131.9278279654474,
+      "bounce_rate": 0.7580427240812616,
+      "rank": 122,
+      "country_name": "Honduras"
+    },
+    {
+      "country": 48,
+      "share": 0.0006543587913490917,
+      "visits": 1221741.328701544,
+      "pages_per_visit": 3.343387527582682,
+      "average_time": 380.2428377813191,
+      "bounce_rate": 0.4306705629845031,
+      "rank": 55,
+      "country_name": "Bahrain"
+    },
+    {
+      "country": 51,
+      "share": 0.0006140814257531385,
+      "visits": 1146540.1962183318,
+      "pages_per_visit": 1.7679817254922239,
+      "average_time": 129.44548400823828,
+      "bounce_rate": 0.6671979660211179,
+      "rank": 277,
+      "country_name": "Armenia"
+    },
+    {
+      "country": 894,
+      "share": 0.0005935959798112508,
+      "visits": 1108292.1948543012,
+      "pages_per_visit": 2.7749058091649874,
+      "average_time": 355.1145185314992,
+      "bounce_rate": 0.44896171033032506,
+      "rank": 81,
+      "country_name": "Zambia"
+    },
+    {
+      "country": 558,
+      "share": 0.0005612605392850619,
+      "visits": 1047919.2853818584,
+      "pages_per_visit": 2.03863810539204,
+      "average_time": 225.82846930508063,
+      "bounce_rate": 0.6041762164942309,
+      "rank": 72,
+      "country_name": "Nicaragua"
+    },
+    {
+      "country": 630,
+      "share": 0.0005377991666107549,
+      "visits": 1004114.9856563607,
+      "pages_per_visit": 1.9090569535748543,
+      "average_time": 139.92180074490642,
+      "bounce_rate": 0.663736653809335,
+      "rank": 146,
+      "country_name": "Puerto Rico"
+    },
+    {
+      "country": 788,
+      "share": 0.00048475707711101283,
+      "visits": 905081.0706860808,
+      "pages_per_visit": 1.693680362223722,
+      "average_time": 104.51317170115766,
+      "bounce_rate": 0.7196254475763763,
+      "rank": 227,
+      "country_name": "Tunisia"
+    },
+    {
+      "country": 104,
+      "share": 0.00046261039112942574,
+      "visits": 863731.398434111,
+      "pages_per_visit": 2.253394990085976,
+      "average_time": 198.36949755394878,
+      "bounce_rate": 0.6096800918507287,
+      "rank": 53,
+      "country_name": "Myanmar"
+    },
+    {
+      "country": 417,
+      "share": 0.00042044568683613303,
+      "visits": 785006.4503954548,
+      "pages_per_visit": 1.8380075326351824,
+      "average_time": 150.15927847505333,
+      "bounce_rate": 0.6972536254733501,
+      "rank": 82,
+      "country_name": "Kyrgyzstan"
+    },
+    {
+      "country": 508,
+      "share": 0.00041120167848180604,
+      "visits": 767747.1315039652,
+      "pages_per_visit": 2.2714776632302405,
+      "average_time": 228.3483063328424,
+      "bounce_rate": 0.5152184585174275,
+      "rank": 97,
+      "country_name": "Mozambique"
+    },
+    {
+      "country": 516,
+      "share": 0.0004106395241813199,
+      "visits": 766697.5434933951,
+      "pages_per_visit": 2.5050675675675675,
+      "average_time": 291.0509828009828,
+      "bounce_rate": 0.4785012285012285,
+      "rank": 36,
+      "country_name": "Namibia"
+    },
+    {
+      "country": 807,
+      "share": 0.0003953211036242906,
+      "visits": 738096.800701556,
+      "pages_per_visit": 1.7202018368401082,
+      "average_time": 125.10272916869128,
+      "bounce_rate": 0.7062056379104922,
+      "rank": 316,
+      "country_name": "Macedonia, the former Yugoslav Republic of"
+    },
+    {
+      "country": 446,
+      "share": 0.00039127116027423676,
+      "visits": 730535.2255610134,
+      "pages_per_visit": 2.132592234573868,
+      "average_time": 179.4330594490092,
+      "bounce_rate": 0.5991622361849525,
+      "rank": 149,
+      "country_name": "Macao"
+    },
+    {
+      "country": 499,
+      "share": 0.0003681384453697529,
+      "visits": 687344.5567451946,
+      "pages_per_visit": 2.093888092601137,
+      "average_time": 147.07060594069165,
+      "bounce_rate": 0.5740574471295161,
+      "rank": 128,
+      "country_name": "Montenegro"
+    },
+    {
+      "country": 646,
+      "share": 0.0003661640034427273,
+      "visits": 683658.1123430419,
+      "pages_per_visit": 2.3995787700084246,
+      "average_time": 295.09637742207246,
+      "bounce_rate": 0.5037068239258635,
+      "rank": 28,
+      "country_name": "Rwanda"
+    },
+    {
+      "country": 388,
+      "share": 0.00036556488399156547,
+      "visits": 682539.5073758735,
+      "pages_per_visit": 2.444286549141575,
+      "average_time": 294.52723436417944,
+      "bounce_rate": 0.5322264445173635,
+      "rank": 91,
+      "country_name": "Jamaica"
+    },
+    {
+      "country": 422,
+      "share": 0.00036072118943047623,
+      "visits": 673495.9338698325,
+      "pages_per_visit": 2.170525532847226,
+      "average_time": 206.62633875172952,
+      "bounce_rate": 0.6511807900812623,
+      "rank": 100,
+      "country_name": "Lebanon"
+    },
+    {
+      "country": 496,
+      "share": 0.0003599419734269908,
+      "visits": 672041.0739244483,
+      "pages_per_visit": 1.9375047567225012,
+      "average_time": 200.4542271577424,
+      "bounce_rate": 0.6019820203281092,
+      "rank": 328,
+      "country_name": "Mongolia"
+    },
+    {
+      "country": 706,
+      "share": 0.00035818134774886866,
+      "visits": 668753.8419291385,
+      "pages_per_visit": 2.8990607037712044,
+      "average_time": 347.8676573671667,
+      "bounce_rate": 0.4221225290901444,
+      "rank": 23,
+      "country_name": "Somalia"
+    },
+    {
+      "country": 8,
+      "share": 0.00035488730323021017,
+      "visits": 662603.5916685276,
+      "pages_per_visit": 2.3427022801309914,
+      "average_time": 211.44547976085207,
+      "bounce_rate": 0.5907578110031977,
+      "rank": 182,
+      "country_name": "Albania"
+    },
+    {
+      "country": 192,
+      "share": 0.0003499242186377299,
+      "visits": 653337.1072189587,
+      "pages_per_visit": 2.5238025055268976,
+      "average_time": 224.266322770818,
+      "bounce_rate": 0.5154016212232867,
+      "rank": 55,
+      "country_name": "Cuba"
+    },
+    {
+      "country": 242,
+      "share": 0.0003357066820379289,
+      "visits": 626791.8047244486,
+      "pages_per_visit": 2.9986136783733826,
+      "average_time": 308.6617375231054,
+      "bounce_rate": 0.4630314232902033,
+      "rank": 55,
+      "country_name": "Fiji"
+    },
+    {
+      "country": 418,
+      "share": 0.0003066065716712936,
+      "visits": 572459.5210068334,
+      "pages_per_visit": 2.27277628032345,
+      "average_time": 191.17628032345013,
+      "bounce_rate": 0.5509433962264151,
+      "rank": 223,
+      "country_name": "Lao People's Democratic Republic"
+    },
+    {
+      "country": 462,
+      "share": 0.0002858103249027161,
+      "visits": 533631.2291049792,
+      "pages_per_visit": 2.340686274509804,
+      "average_time": 248.9703431372549,
+      "bounce_rate": 0.5220588235294118,
+      "rank": 83,
+      "country_name": "Maldives"
+    },
+    {
+      "country": 275,
+      "share": 0.0002800432244966081,
+      "visits": 522863.5814381891,
+      "pages_per_visit": 1.9298830657241985,
+      "average_time": 162.04176173353284,
+      "bounce_rate": 0.6515348979236966,
+      "rank": 150,
+      "country_name": "Palestine, State of"
+    },
+    {
+      "country": 454,
+      "share": 0.0002780418616776454,
+      "visits": 519126.87353118265,
+      "pages_per_visit": 2.947768938083708,
+      "average_time": 359.01971636112074,
+      "bounce_rate": 0.4188861985472155,
+      "rank": 43,
+      "country_name": "Malawi"
+    },
+    {
+      "country": 20,
+      "share": 0.0002501605028479842,
+      "visits": 467070.0985128086,
+      "pages_per_visit": 3.9305555555555554,
+      "average_time": 256.64074074074074,
+      "bounce_rate": 0.4212962962962963,
+      "rank": 68,
+      "country_name": "Andorra"
+    },
+    {
+      "country": 44,
+      "share": 0.00023895461441673788,
+      "visits": 446147.78921969736,
+      "pages_per_visit": 2.676767676767677,
+      "average_time": 342.15474747474747,
+      "bounce_rate": 0.5082828282828283,
+      "rank": 158,
+      "country_name": "Bahamas"
+    },
+    {
+      "country": 831,
+      "share": 0.00023385278242901388,
+      "visits": 436622.2520466686,
+      "pages_per_visit": 2.0164684354986275,
+      "average_time": 81.09698078682526,
+      "bounce_rate": 0.5498627630375115,
+      "rank": 79,
+      "country_name": "Guernsey"
+    },
+    {
+      "country": 24,
+      "share": 0.00023201436704268865,
+      "visits": 433189.7803102323,
+      "pages_per_visit": 2.312628915006111,
+      "average_time": 263.88682764441864,
+      "bounce_rate": 0.5644892549096889,
+      "rank": 73,
+      "country_name": "Angola"
+    },
+    {
+      "country": 832,
+      "share": 0.00022580134572979917,
+      "visits": 421589.56187592226,
+      "pages_per_visit": 1.4909862142099681,
+      "average_time": 95.4729586426299,
+      "bounce_rate": 0.7942735949098622,
+      "rank": 23,
+      "country_name": "Jersey"
+    },
+    {
+      "country": 312,
+      "share": 0.00021014613681438025,
+      "visits": 392360.00770123035,
+      "pages_per_visit": 1.6888341543513958,
+      "average_time": 182.10180623973727,
+      "bounce_rate": 0.6412151067323482,
+      "rank": 310,
+      "country_name": "Guadeloupe"
+    },
+    {
+      "country": 686,
+      "share": 0.00019943654224036247,
+      "visits": 372364.31958991254,
+      "pages_per_visit": 1.9843757560591933,
+      "average_time": 190.8822866028273,
+      "bounce_rate": 0.6195442732092769,
+      "rank": 197,
+      "country_name": "Senegal"
+    },
+    {
+      "country": 72,
+      "share": 0.0001988964394976089,
+      "visits": 371355.9036393808,
+      "pages_per_visit": 2.3856149894227863,
+      "average_time": 238.47385917195527,
+      "bounce_rate": 0.5633121789060139,
+      "rank": 122,
+      "country_name": "Botswana"
+    },
+    {
+      "country": 760,
+      "share": 0.00019375331254179587,
+      "visits": 361753.26538686967,
+      "pages_per_visit": 1.9395371983080367,
+      "average_time": 179.62453346603633,
+      "bounce_rate": 0.6476735506344862,
+      "rank": 72,
+      "country_name": "Syrian Arab Republic"
+    },
+    {
+      "country": 180,
+      "share": 0.0001817668504002469,
+      "visits": 339373.56119881326,
+      "pages_per_visit": 2.430732002419843,
+      "average_time": 282.7586206896552,
+      "bounce_rate": 0.5117967332123412,
+      "rank": 113,
+      "country_name": "Congo, the Democratic Republic of the"
+    },
+    {
+      "country": 638,
+      "share": 0.0001778178629286386,
+      "visits": 332000.47893206245,
+      "pages_per_visit": 2.2378730671348324,
+      "average_time": 222.31603753068816,
+      "bounce_rate": 0.45744891965455886,
+      "rank": 373,
+      "country_name": "Réunion"
+    },
+    {
+      "country": 96,
+      "share": 0.0001751133894968721,
+      "visits": 326951.0060623663,
+      "pages_per_visit": 2.6576819407008085,
+      "average_time": 194.48836069590786,
+      "bounce_rate": 0.5231560891938251,
+      "rank": 73,
+      "country_name": "Brunei Darussalam"
+    },
+    {
+      "country": 60,
+      "share": 0.00015537943405395695,
+      "visits": 290106.0988614451,
+      "pages_per_visit": 2.906998158379374,
+      "average_time": 290.3885819521179,
+      "bounce_rate": 0.40331491712707185,
+      "rank": null,
+      "country_name": "Bermuda"
+    },
+    {
+      "country": 434,
+      "share": 0.00014810691941664276,
+      "visits": 276527.71982312703,
+      "pages_per_visit": 1.993793445878848,
+      "average_time": 141.2425521350546,
+      "bounce_rate": 0.6596325719960278,
+      "rank": 82,
+      "country_name": "Libya"
+    },
+    {
+      "country": 887,
+      "share": 0.00014692287452806177,
+      "visits": 274317.0112721885,
+      "pages_per_visit": 1.8878034339846064,
+      "average_time": 183.80284191829486,
+      "bounce_rate": 0.6527531083481349,
+      "rank": 92,
+      "country_name": "Yemen"
+    },
+    {
+      "country": 795,
+      "share": 0.00011619019171881095,
+      "visits": 216936.5814127138,
+      "pages_per_visit": 1.801948051948052,
+      "average_time": 156.50974025974025,
+      "bounce_rate": 0.6785714285714286,
+      "rank": 163,
+      "country_name": "Turkmenistan"
+    },
+    {
+      "country": 384,
+      "share": 0.00011517134805680443,
+      "visits": 215034.31704977516,
+      "pages_per_visit": 2.094671814364632,
+      "average_time": 219.55022770580905,
+      "bounce_rate": 0.6265308186721842,
+      "rank": 337,
+      "country_name": "Côte d'Ivoire"
+    },
+    {
+      "country": 120,
+      "share": 0.00010373277773987179,
+      "visits": 193677.57166450552,
+      "pages_per_visit": 2.012899262899263,
+      "average_time": 220.31572481572482,
+      "bounce_rate": 0.6732186732186732,
+      "rank": 125,
+      "country_name": "Cameroon"
+    },
+    {
+      "country": 136,
+      "share": 0.000092781571412863,
+      "visits": 173230.7746691448,
+      "pages_per_visit": 6.773049645390071,
+      "average_time": 619.0939716312057,
+      "bounce_rate": 0.1950354609929078,
+      "rank": null,
+      "country_name": "Cayman Islands"
+    },
+    {
+      "country": 332,
+      "share": 0.00008749042129076434,
+      "visits": 163351.7650707493,
+      "pages_per_visit": 1.6069114470842332,
+      "average_time": 176.96616270698345,
+      "bounce_rate": 0.693304535637149,
+      "rank": 135,
+      "country_name": "Haiti"
+    },
+    {
+      "country": 316,
+      "share": 0.00008292957124040497,
+      "visits": 154836.28537642688,
+      "pages_per_visit": 1.723589001447178,
+      "average_time": 117.9739507959479,
+      "bounce_rate": 0.683068017366136,
+      "rank": 266,
+      "country_name": "Guam"
+    },
+    {
+      "country": 450,
+      "share": 0.00007298772133873524,
+      "visits": 136274.0392979794,
+      "pages_per_visit": 2.1393914473684212,
+      "average_time": 181.84416118421052,
+      "bounce_rate": 0.594983552631579,
+      "rank": 375,
+      "country_name": "Madagascar"
+    },
+    {
+      "country": 762,
+      "share": 0.00007132369808899009,
+      "visits": 133167.17192947897,
+      "pages_per_visit": 1.7001364256480218,
+      "average_time": 142.10177353342428,
+      "bounce_rate": 0.7053206002728513,
+      "rank": 119,
+      "country_name": "Tajikistan"
+    },
+    {
+      "country": 204,
+      "share": 0.00006699326792751596,
+      "visits": 125081.90499446786,
+      "pages_per_visit": 1.683262209577999,
+      "average_time": 181.85395922238027,
+      "bounce_rate": 0.6168800379326695,
+      "rank": 117,
+      "country_name": "Benin"
+    },
+    {
+      "country": 768,
+      "share": 0.0000643794610901206,
+      "visits": 120201.71406449687,
+      "pages_per_visit": 1.8137443802183686,
+      "average_time": 210.08413615928066,
+      "bounce_rate": 0.6448298008991651,
+      "rank": 146,
+      "country_name": "Togo"
+    },
+    {
+      "country": 84,
+      "share": 0.00006291676312646375,
+      "visits": 117470.73745467275,
+      "pages_per_visit": 1.6135593220338984,
+      "average_time": 92.33220338983051,
+      "bounce_rate": 0.7016949152542373,
+      "rank": null,
+      "country_name": "Belize"
+    },
+    {
+      "country": 740,
+      "share": 0.00006266080339479892,
+      "visits": 116992.83972212521,
+      "pages_per_visit": 1.490952955367913,
+      "average_time": 177.6550060313631,
+      "bounce_rate": 0.7310012062726177,
+      "rank": 368,
+      "country_name": "Suriname"
+    },
+    {
+      "country": 466,
+      "share": 0.00006197192557304488,
+      "visits": 115706.64854323448,
+      "pages_per_visit": 1.951657458563536,
+      "average_time": 253.5110497237569,
+      "bounce_rate": 0.6187845303867403,
+      "rank": 97,
+      "country_name": "Mali"
+    },
+    {
+      "country": 850,
+      "share": 0.0000608293708481466,
+      "visits": 113573.40551790045,
+      "pages_per_visit": 1.9130434782608696,
+      "average_time": 120.52429667519182,
+      "bounce_rate": 0.5805626598465473,
+      "rank": 88,
+      "country_name": "Virgin Islands, U.S."
+    },
+    {
+      "country": 328,
+      "share": 0.00005609386789502544,
+      "visits": 104731.83458387473,
+      "pages_per_visit": 2.2137566137566136,
+      "average_time": 253.03915343915344,
+      "bounce_rate": 0.5767195767195767,
+      "rank": 138,
+      "country_name": "Guyana"
+    },
+    {
+      "country": 598,
+      "share": 0.00005313812388469547,
+      "visits": 99213.21901360471,
+      "pages_per_visit": 3.017191977077364,
+      "average_time": 333.7106017191977,
+      "bounce_rate": 0.4498567335243553,
+      "rank": 772,
+      "country_name": "Papua New Guinea"
+    },
+    {
+      "country": 736,
+      "share": 0.000049302375750640946,
+      "visits": 92051.56384243706,
+      "pages_per_visit": 2.93598615916955,
+      "average_time": 283.8771626297578,
+      "bounce_rate": 0.4342560553633218,
+      "rank": null,
+      "country_name": "Sudan"
+    },
+    {
+      "country": 266,
+      "share": 0.00003072396272354587,
+      "visits": 57364.1487469774,
+      "pages_per_visit": 1.6873449131513647,
+      "average_time": 142.74937965260546,
+      "bounce_rate": 0.6674937965260546,
+      "rank": 239,
+      "country_name": "Gabon"
+    },
+    {
+      "country": 474,
+      "share": 0.000025305718465610037,
+      "visits": 47247.84401257899,
+      "pages_per_visit": 1.7729468599033817,
+      "average_time": 125.80676328502416,
+      "bounce_rate": 0.6328502415458938,
+      "rank": 723,
+      "country_name": "Martinique"
+    },
+    {
+      "country": 854,
+      "share": 0.000021320929520936213,
+      "visits": 39807.91747040802,
+      "pages_per_visit": 1.8323699421965318,
+      "average_time": 161.57514450867052,
+      "bounce_rate": 0.6936416184971098,
+      "rank": 315,
+      "country_name": "Burkina Faso"
+    },
+    {
+      "country": 662,
+      "share": 0.000020644149079263207,
+      "visits": 38544.31308856106,
+      "pages_per_visit": 2.9177489177489178,
+      "average_time": 324.2121212121212,
+      "bounce_rate": 0.5021645021645021,
+      "rank": null,
+      "country_name": "Saint Lucia"
+    },
+    {
+      "country": 258,
+      "share": 0.000016815282667175905,
+      "visits": 31395.50665458642,
+      "pages_per_visit": 2.4911242603550297,
+      "average_time": 205.74556213017752,
+      "bounce_rate": 0.621301775147929,
+      "rank": 1160,
+      "country_name": "French Polynesia"
+    },
+    {
+      "country": 540,
+      "share": 0.000014999167491542772,
+      "visits": 28004.671233580593,
+      "pages_per_visit": 1.5231481481481481,
+      "average_time": 67.93981481481481,
+      "bounce_rate": 0.7222222222222222,
+      "rank": 2124,
+      "country_name": "New Caledonia"
+    },
+    {
+      "country": 254,
+      "share": 0.000010336472529615206,
+      "visits": 19299.038767986778,
+      "pages_per_visit": 3.059090909090909,
+      "average_time": 377.0681818181818,
+      "bounce_rate": 0.35,
+      "rank": null,
+      "country_name": "French Guiana"
+    },
+    {
+      "country": 132,
+      "share": 0.000006432937963196225,
+      "visits": 12010.82078901433,
+      "pages_per_visit": 2.123076923076923,
+      "average_time": 223.76923076923077,
+      "bounce_rate": 0.6615384615384615,
+      "rank": null,
+      "country_name": "Cabo Verde"
+    },
+    {
+      "country": 148,
+      "share": 0.000004817755646346939,
+      "visits": 8995.143432843628,
+      "pages_per_visit": 1.4666666666666666,
+      "average_time": 47.733333333333334,
+      "bounce_rate": 0.7333333333333333,
+      "rank": null,
+      "country_name": "Chad"
+    },
+    {
+      "country": 438,
+      "share": 0.000004100517464731077,
+      "visits": 7656.001144870058,
+      "pages_per_visit": 6.6,
+      "average_time": 592.6,
+      "bounce_rate": 0.6,
+      "rank": null,
+      "country_name": "Liechtenstein"
+    }
+  ]
+}
